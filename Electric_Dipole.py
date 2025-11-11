@@ -1,3 +1,5 @@
+# Aim: To simulate and animate the electric field and equipotential lines of an electric dipole in 2D and 3D space due to charges at user-defined coordinates.
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider  # Import the Slider widget

@@ -109,7 +109,6 @@ python Nuclear_Decay.py
 * Statistical distributions and simulations
 
 ---
-
 SVNIT_Computational_Lab_1/
 │
 ├── 1_Numerical_Methods/

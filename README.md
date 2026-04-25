@@ -110,16 +110,39 @@ python Nuclear_Decay.py
 
 ---
 
-## 📁 Structure
-
-```id="lab1struct2"
 SVNIT_Computational_Lab_1/
-├── Numerical Methods
-├── Monte Carlo Simulations
-├── Classical Physics Models
-├── Random Number Generators
-```
-
+│
+├── 1_Numerical_Methods/
+│   ├── Newton_Raphson.py
+│   ├── NR.py
+│   ├── Numerical_Integration.py
+│   ├── Runge_Kutta.py
+│
+├── 2_Monte_Carlo_and_Stochastic/
+│   ├── Pi.py
+│   ├── Nuclear_Decay.py
+│   ├── Random_Walk.py
+│
+├── 3_Random_Number_Generation/
+│   ├── PRNG.py
+│   ├── Random_Number.py
+│   ├── Cauchy.py
+│
+├── 4_Classical_Physics/
+│   ├── Trajectory_of_a_Projectile.py
+│   ├── Electric_Dipole.py
+│   ├── Sinusoidal_Waveform.py
+│
+├── 5_Linear_Algebra_and_Circuits/
+│   ├── Kirchoff_Law.py
+│
+├── notebooks/
+│   ├── Newton_Raphson.ipynb
+│   ├── Nuclear_Decay.ipynb
+│   ├── Electric_Dipole.ipynb
+│   ├── Pi.ipynb
+│
+├── README.md
 ---
 
 ## 📚 Learning Outcomes

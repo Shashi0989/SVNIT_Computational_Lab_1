@@ -156,7 +156,7 @@ SVNIT_Computational_Lab_1/
 
 ## 👤 Author
 
-Shashi
+Shashank
 Integrated MSc Physics, SVNIT Surat
 
 ---
